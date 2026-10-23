@@ -15,8 +15,6 @@ The northern Indian Ocean is landlocked to the north and forced by seasonally re
 
 **Study region:** 40°E–100°E, 0°–25°N
 
-![Monthly climatology of SST and winds](figures/sst_wind_climatology.png)
-
 ---
 
 ## Data
@@ -67,14 +65,10 @@ The data files are not included in this repository because of their size. They c
 - **MLD** deepens to more than 60 m in the Arabian Sea during the summer monsoon (wind mixing) and to more than 55 m in winter (convective mixing). It stays shallow (30–40 m) in the stratified Bay of Bengal.
 - **Precipitation** is higher over the Bay of Bengal throughout the year, peaking at about 8 mm/day during the summer monsoon.
 
-![Seasonal cycles in the Arabian Sea and Bay of Bengal](figures/as_bob_time_series.png)
-
 **Indian Ocean Dipole**
 - Positive IOD years: 1994, 1997, 2006, 2015 and 2019. Negative IOD years: 1996, 1998, 2010 and 2016.
 - In **1997**, cooling in the eastern box dominated. In **2019**, warming in the western box dominated.
 - The onset, peak month, duration and east–west balance of the anomalies vary markedly from event to event. This points to different driving mechanisms behind individual IOD events.
-
-![Dipole Mode Index 1993–2021](figures/dmi_1993_2021.png)
 
 ---
 
