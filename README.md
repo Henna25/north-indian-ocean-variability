@@ -1,8 +1,8 @@
 # Seasonal and Interannual Variability of Physical Parameters in the Northern Indian Ocean
 
-Research internship at the **CSIR-National Institute of Oceanography (NIO), Goa**, Physical Oceanography Division
-Supervisor: **Dr. Akhil Valiya Parambil** · May – July 2024
-Author: **Fathimathul Hennath P H** (M.Sc. Oceanography, Cochin University of Science and Technology)
+**Research internship** · CSIR-National Institute of Oceanography (NIO), Goa · Physical Oceanography Division<br>
+**Supervisor:** Dr. Akhil Valiya Parambil · **Duration:** May – July 2024<br>
+**Author:** Fathimathul Hennath P H (M.Sc. Oceanography, Cochin University of Science and Technology)
 
 ---
 
@@ -45,16 +45,15 @@ The data files are not included in this repository because of their size. They c
 
 | Notebook | Description |
 |---|---|
-| `currents_climatology.ipynb` | Monthly climatology of SSS with surface currents |
-| `mld_and_wind.ipynb` | Monthly climatology of mixed layer depth with surface winds |
-| `arabian_sea_physical_properties.ipynb` | Box-averaged seasonal cycles of SST, SSS, MLD, currents, precipitation and wind in the AS and BoB |
-| `time_series_plots.ipynb` | Time series of physical parameters for the AS and BoB |
-| `d20_climatology.ipynb` | Climatology of the 20 °C isotherm depth (D20), a proxy for thermocline depth |
-| `sla_climatology.ipynb` | Climatology of sea level anomaly |
-| `iod_dipole_mode_plots.ipynb` | DMI time series (1993–2021), and SST anomaly maps for the 1997 and 2019 positive IOD events |
-| `iod_climate_indices.ipynb` | Climate indices and west/east SST anomalies for the positive IOD years |
-| `olr_east_anomaly.ipynb` | Outgoing longwave radiation (OLR) anomaly over the eastern box (convection proxy) |
-| `olr_west.ipynb` | OLR anomaly over the western box |
+| `Salinity and current.ipynb` | Monthly climatology of SSS with surface currents |
+| `MLD Climatology.ipynb` | Monthly climatology of mixed layer depth with surface winds |
+| `Overlayed,6 parameters.ipynb` | Box-averaged seasonal cycles of SST, SSS, MLD, currents, precipitation and wind, overlaid for the Arabian Sea and Bay of Bengal |
+| `Time series 4 plots.ipynb` | Time series plots of physical parameters |
+| `d20 climatology.ipynb` | Climatology of the 20 °C isotherm depth (D20), a proxy for thermocline depth |
+| `SLAPlots.ipynb` | Sea level anomaly plots |
+| `Dipole mode plots.ipynb` | Dipole Mode Index time series (1993–2021) and west/east SST anomalies for the positive IOD years |
+| `SSTanomaly.ipynb` | SST anomaly maps for the 1997 and 2019 positive IOD events |
+| `OLR ANOMALY.ipynb` | Outgoing longwave radiation (OLR) anomalies, a proxy for deep convection |
 
 **Requirements:** Python 3 with `xarray`, `numpy`, `pandas`, `matplotlib` and `cartopy`.
 
